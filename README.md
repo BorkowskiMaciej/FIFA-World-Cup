@@ -14,7 +14,8 @@ The data are from all editions of the championship until 2018.
 Sources ~ https://github.com/jfjelstul/worldcup.
 
 ## Poster
-<img src="png/poster.png" align="center" width="600"/>             
+
+<img src="poster.png" align="center" width="600"/>             
 
 
 ## Authors
