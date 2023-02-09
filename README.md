@@ -1,5 +1,5 @@
 # FIFA World Cup poster
-Project created for Data Visualization Techniques classes, Data Science studies in the winter semester 2022/23 📈🏅
+Project created for *Data Visualization Techniques* classes, Data Science studies in the winter semester 2022/23 📈🏅
 
 ## About project
 The topic of the project task was to find and process data and prepare a poster about the sport of our choice. 
